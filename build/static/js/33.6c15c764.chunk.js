@@ -1,0 +1,2 @@
+(this.webpackJsonpreactlaravel=this.webpackJsonpreactlaravel||[]).push([[33],{382:function(e,t,n){"use strict";n.r(t),n.d(t,"default",(function(){return l}));var a=n(0),r=n.n(a);function l(){return r.a.createElement(a.Fragment,null,r.a.createElement("div",null,"h1"))}}}]);
+//# sourceMappingURL=33.6c15c764.chunk.js.map
